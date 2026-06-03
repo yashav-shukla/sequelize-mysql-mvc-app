@@ -141,7 +141,6 @@ CREATE DATABASE sequelize_db;
 </p>
 
 
-⭐ Don't forget to star the repository if you found it helpful.
 
 ## ⭐ Support
 
